@@ -1,0 +1,87 @@
+body{
+  background-color: rgb(255, 255, 255);
+
+}
+
+*{
+  font-family: 'Montserrat', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+header{
+  margin: 44px 0px 164px 76px;
+
+}
+.Link-Header{
+  font-weight: 624px;
+  font-size: 24px;
+  line-height: 29px;
+  color:#989D90;
+  cursor: pointer;
+  margin-right: 23px;
+}
+.button-header{
+  border-radius: 20.95px;
+  background: #665AE1;
+  width: 130px;
+  height: 41px;
+  border: none;
+  font-size: 24px;
+  line-height: 29px;
+  color:#fff;
+}
+.Mpet{
+  height: 430px;
+  width: 380px; 
+  margin-left: 125px;
+  display: inline-block;
+
+
+}
+
+div{
+  display: inline-block;
+  margin-left: 86px;
+
+}
+
+h1{
+  font-weight: 908;
+  font-size: 100px;
+  line-height: 122px;
+  color:#515151;}
+
+  h2{
+    font-weight: 508;
+    font-size: 58px;
+    line-height: 71px;
+    color: #515151;
+  }
+
+  p{
+   font-weight: 400;
+   font-size: 24px;
+   line-height: 29px;
+   color:#848484;
+   width: 515px;
+  margin-top: 32px;
+  margin-bottom: 65px;
+  }
+
+   .Explore{
+    background-color: #ADFF08;
+    border-radius: 30.5px;
+    width: 239px;
+    height: 64px;
+    border: none;
+    cursor: pointer;
+    filter: drop-shadow(0px 4px 4px );
+    font-weight: 700;
+    font-size: 28px;
+    line-height: 34px;
+
+    color: #000;
+    
+   }
